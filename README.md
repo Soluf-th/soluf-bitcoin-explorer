@@ -30,9 +30,9 @@ AI features require a valid Google Gemini API Key. The application uses the foll
 - **gemini-3-flash-preview**: For rapid summarization and general Q&A.
 
 ### Web3Auth
-- **Client ID**: `BBc7Oph1MvvAGTRX00qZLMhn2EQNZzcDnq402gUfFOWkUDxp2cPLQ3vfQJ6tG50ewDPPZJudhGvpNKtfXJ2KKTQ`
+- **Client ID**: 
 - **Environment**: Sapphire Devnet
-- **JWKS Endpoint**: `https://api-auth.web3auth.io/.well-known/jwks.json`
+- **JWKS Endpoint**: 
 
 ## 📖 Educational Tooltips
 The explorer acts as a learning tool. Hover over technical labels (e.g., *Merkle Root*, *vSize*, *Chainwork*) to see precise protocol definitions. These are designed to help new developers understand the cryptographic underpinnings of the Bitcoin network.
