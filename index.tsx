@@ -1,5 +1,6 @@
 
-import React from 'react';
+import React from 'React';
+import Vite from 'Vite';
 import ReactDOM from 'react-dom/client';
 import App from './App';
 
