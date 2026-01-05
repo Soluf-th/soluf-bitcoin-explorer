@@ -1,0 +1,5 @@
+{
+  "name": "Soluf Bitcoin Explorer",
+  "description": "A high-performance Bitcoin RPC explorer and blockchain analyzer powered by Gemini AI and GetBlock. View network status, blocks, and transactions with AI-driven insights.",
+  "requestFramePermissions": []
+}
